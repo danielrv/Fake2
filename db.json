@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "From": "Dra. Lorena Impsum",
+	  "Date":"20 Sept, a las 15:25",
+	  "Avatar":"femdoc1.png",
+	  "Mensaje":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    },
+    {
+      "id": 2,
+      "From": "Dra. Melo Melosa",
+	  "Date":"21 Sept, a las 13:05",
+	  "Avatar":"femdoc2.png",
+	  "Mensaje":"No atiendo hoy..."
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
