@@ -24,7 +24,7 @@
     {
       "id": 4,
       "From": "Dra. Melo Melosa",
-	  "Date":"23 Sept, a las 15:25",
+	  "Date":"23 Sept, a las 15:22",
 	  "Avatar":"femdoc2.png",
 	  "Mensaje":"Consultas atrasadas o canceladas, hablar con secretaría.."
     },
@@ -34,6 +34,13 @@
 	  "Date":"24 Sept, a las 13:15",
 	  "Avatar":"femdoc2.png",
 	  "Mensaje":"¡Esta noche proctologo de turno en Oxes Disco! Mujeres conver hasta las 12..."
+    },
+    {
+      "id": 6,
+      "From": "Laboratorio",
+	  "Date":"24 Sept, a las 16:11",
+	  "Avatar":"femdoc2.png",
+	  "Mensaje":"Tu examén radiologico esta listo, ¿ver mas?"
     }
   ],
   "profile": {
